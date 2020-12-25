@@ -1,5 +1,5 @@
 # Python 
-* Jupyter NoteBook : Amazing Puzzles&Soultions using Python  
+* ##### Jupyter NoteBook : Amazing Puzzles&Soultions using Python  
   Jupyter Notebook is a collection of the puzzles and problem solved.  
   I update it every now and then.
   The solution is also added.Download it and Try it on.  
